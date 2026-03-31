@@ -19,23 +19,19 @@
 
 ### 👨‍💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,js,ts,cpp,c,cs" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,cpp,c,cs" />
 </p>
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,nextjs,vite" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,nextjs" />
 </p>
 
 ### 🛠️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet" />
 </p>
 
-### 🎨 CSS Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,materialui" />
-</p>
 
 ### 🗄️ Databases
 <p align="left">
