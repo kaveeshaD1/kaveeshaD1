@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/PORTFOLIO-333333?style=for-the-badge&logo=googledomains&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yaseer-bt"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://wa.me/947XXXXXXXXX"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kaveeshadilshan2004/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/94777985413"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
@@ -44,8 +44,19 @@
 </p>
 
 ### 🎯 Design Expertise
-* **UI/UX Design:** User-centered design principles, wireframing, and interactive prototyping.
-* **Graphic Design:** Branding, visual identity, and vector-based illustrations.
-* **System Architecture:** Designing robust and scalable software frameworks.
+
+| 🎨 UI/UX Design | 🖌️ Graphic Design | 🏗️ System Architecture |
+| :--- | :--- | :--- |
+| • User-Centered Design | • Brand Identity | • Scalable Frameworks |
+| • Wireframing | • Visual Storytelling | • Robust API Design |
+| • Interactive Prototyping | • Vector Illustration | • Clean Code Principles |
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Creative_Problem_Solving-FFD700?style=flat-square&logo=lightbulb&logoColor=black" />
+  <img src="https://img.shields.io/badge/User_Experience_Optimization-4B0082?style=flat-square&logo=google-analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scalable_Architecture-008080?style=flat-square&logo=diagrams.net&logoColor=white" />
+</p>
 
 ---
