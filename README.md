@@ -14,7 +14,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,spring,py,cpp" />
 </p>
-
+---
 **Tools & Databases**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,docker,aws,postman" />
