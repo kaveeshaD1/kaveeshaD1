@@ -1,9 +1,4 @@
 
-
-#### 🛠️ Backend & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,git,docker,aws" />
-</p>
 <h1 align="center">Hi 👋, I'm Kaveesha Dilshan</h1>
 <h3 align="center">Undergraduate Software Engineering Student</h3>
 
