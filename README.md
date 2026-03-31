@@ -1,22 +1,36 @@
-<h1 align="center">Hi 👋, I'm kaveesha Dilshan</h1>
-<h3 align="center">Passionate about architecting scalable solutions and solving complex problems through code.** ✨ **Turning coffee into clean, efficient, and well-documented software.**</h3>
+## 🖥️ Tech Stack
 
-<p align="center">
-  <a href="YOUR_LINK"><img src="https://img.shields.io/badge/portfolio-333333?style=for-the-badge&logo=googledomains&logoColor=white" /></a>
-  <a href="YOUR_LINK"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="YOUR_LINK"><img src="https://img.shields.io/badge/email-D44638?style=for-the-badge&logo=gmail&logoColor=white" /></a
- </p>
-
----
-### 🛠️ My Tech Stack
-
-**Languages & Frameworks**
+### 👨‍💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,spring,py,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,ts,cpp,c,cs" />
 </p>
----
-**Tools & Databases**
+
+### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,docker,aws,postman" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,nextjs,vite" />
 </p>
----
+
+### 🛠️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet,flask" />
+</p>
+
+### 🎨 CSS Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,materialui" />
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,sqlite" />
+</p>
+
+### 🖌️ Design Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,canva" />
+</p>
+
+### 🎯 Design Expertise
+* **UI/UX Design:** User-friendly interfaces සහ prototyping.
+* **Graphic Design:** Branding, layouts සහ vector illustrations.
+* **System Architecture:** Scalable සහ clean software structures නිර්මාණය කිරීම.
