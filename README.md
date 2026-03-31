@@ -14,15 +14,15 @@
  </p>
 
 ---
+### 🛠️ My Tech Stack
 
-### 🛠️ Technical Skills
+**Languages & Frameworks**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,spring,py,cpp" />
+</p>
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Java, Python, JavaScript (ES6+), C++, TypeScript |
-| **Frontend** | React.js, Tailwind CSS, HTML5, CSS3 |
-| **Backend** | Node.js, Express, Spring Boot |
-| **Databases** | MongoDB, PostgreSQL, MySQL |
-| **DevOps/Tools** | Git, Docker, AWS (Basics), Postman |
-
+**Tools & Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,docker,aws,postman" />
+</p>
 ---
